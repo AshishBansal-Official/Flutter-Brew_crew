@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # brew_crew
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter-Brew_crew
+A flutter project to learn flutter and firebase
+>>>>>>> 24c8fa46ee055c1629e2ae37a1c721b6e67d032a
