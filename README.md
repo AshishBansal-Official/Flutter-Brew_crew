@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-# brew_crew
+# BREW CREW
 
-A new Flutter project.
+This is an app that helps to track the brew preferences. 
+Provides a dashboard to see the brew preferences of the users and change your brew preferences.
 
-## Getting Started
+This project helps to get the basic idea of flutter and firebase.
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/59161798/94524369-249f7000-0250-11eb-9237-f2f9ab87f66a.jpg" width="300" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/59161798/94524403-2f5a0500-0250-11eb-8552-b8ad3ae1d81f.jpg" width="300" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-Brew_crew
-A flutter project to learn flutter and firebase
->>>>>>> 24c8fa46ee055c1629e2ae37a1c721b6e67d032a
+<img src="https://user-images.githubusercontent.com/59161798/94524932-ea829e00-0250-11eb-9bf8-55b0685f9a62.jpg" width="300" />
